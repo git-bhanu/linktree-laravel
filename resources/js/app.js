@@ -1,7 +1,5 @@
 require('./bootstrap');
 
-console.log('Test');
-
 $('.user-link').click(function (e) {
     // Store Visit
 
